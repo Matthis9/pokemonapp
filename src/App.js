@@ -9,6 +9,7 @@ import './App.css';
 
 import NavBar from './components/layouts/NavBar';
 import Dashboard from './components/layouts/Dashboard';
+import SearchBar from './components/search/SearchBar';
 import Pokemon from './components/pokemon/Pokemon';
 
 class App extends Component {
